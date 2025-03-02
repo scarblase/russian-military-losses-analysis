@@ -1,0 +1,1 @@
+# russian_equipment_analysis
