@@ -1,4 +1,4 @@
-# 🇺🇦 Military Equipment Losses Analysis (2022-2025) 📊💙💛  
+# 🇺🇦 Military Equipment Losses Analysis (2022-2025)💙💛  
 Welcome to an in-depth exploration of russian military equipment losses over three tumultuous years! This repository is dedicated to supporting Ukraine by uncovering critical insights into the attrition of enemy forces. Using **PySpark** for heavy-duty data processing and **Pandas**, **Matplotlib**, and **Seaborn** for stunning visualizations, this analysis provides valuable intelligence for strategists, analysts, and patriots alike. 🇺🇦✨  
 
 ## 📌 Project Overview  
